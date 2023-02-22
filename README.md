@@ -8,5 +8,5 @@ a scannable QR code, for the pet’s tracking information
 
 Here is a google drive link to view a video about the project:
 
-
+https://drive.google.com/file/d/1xQdceZAugaiKLiKhQunxBs_bj7XsCXlA/view?usp=sharing
 
